@@ -29,12 +29,6 @@ services:
         tty: true
         network_mode: host
         command: hbbr
-        restart: unless-stopped        
-
-
-
-
-
-
+        restart: unless-stopped
 
     
